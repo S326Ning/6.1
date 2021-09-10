@@ -1,0 +1,24 @@
+.title {
+    color:#449e80;
+    margin-top: 15px;
+}
+
+.sub-title{
+    color: #449e80;
+    margin-top: 30px;
+}
+
+.form-container{
+    border: 1px solid #aeabab;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+
+#registration-form {
+    margin-bottom: 20px;
+}
+
+.form-group.required label:after {
+    content:"*";
+    color:red;
+  }

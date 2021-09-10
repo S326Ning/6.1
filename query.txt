@@ -1,0 +1,4 @@
+db.customers.insertOne({
+    name: 'Test',
+    description: 'Test desc'
+})
